@@ -1,5 +1,7 @@
 # Disaster Preparedness and Resilience Planning with Intelli Data
 
+![Intelli Data!](https://cdn.discordapp.com/attachments/1168555810721382481/1174291054632120370/Logo_2.png?ex=65670ec4&is=655499c4&hm=91b1c9198926d9e827e47f540949925722b9c208ebf2f246094c9a1ed348f21c&)
+
 ## Introduction
 
 Welcome to the Disaster Preparedness and Resilience Planning project, in collaboration with Intelli Data. Our mission is to assist a disaster management agency in enhancing their preparedness for extreme weather events, which can significantly impact energy supply systems. We will be using advanced data analysis and predictive modeling to anticipate energy shortfalls during severe weather occurrences, such as storms, heavy snowfall, or heat waves. Accurate predictions will empower the agency to proactively allocate resources, prioritize affected regions, and deploy emergency response teams. This, in turn, ensures minimal disruption and enhances the resilience of energy supply systems during natural disasters.
@@ -40,7 +42,7 @@ time: Timestamp for the data entry.
 
 City-specific weather features:
 
-![Spain!](https://www.thoughtco.com/thmb/r4-HE4WH88Cu3V7Vs-EN3v0SJWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200551095-001-58b9d1215f9b58af5ca84ba0.jpg){:height="50%"}
+![Spain!](https://www.thoughtco.com/thmb/r4-HE4WH88Cu3V7Vs-EN3v0SJWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200551095-001-58b9d1215f9b58af5ca84ba0.jpg)
 
 Madrid_wind_speed
 Valencia_wind_deg
