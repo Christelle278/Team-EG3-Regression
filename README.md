@@ -1,6 +1,6 @@
 # Disaster Preparedness and Resilience Planning with Intelli Data
 
-![Intelli Data!](https://cdn.discordapp.com/attachments/1168555810721382481/1174291054632120370/Logo_2.png?ex=65670ec4&is=655499c4&hm=91b1c9198926d9e827e47f540949925722b9c208ebf2f246094c9a1ed348f21c&)
+![Intelli Data!](https://media.discordapp.net/attachments/1168555810721382481/1174317128040579122/Logo_2.png?ex=6567270d&is=6554b20d&hm=ab21c2440ea1fb5cc8f3542c86173a96fc45aaa2e305b94747f2deefaf6cf676&=&width=312&height=312)
 
 ## Introduction
 
