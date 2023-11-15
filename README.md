@@ -40,6 +40,8 @@ time: Timestamp for the data entry.
 
 City-specific weather features:
 
+![Spain!](https://www.thoughtco.com/thmb/r4-HE4WH88Cu3V7Vs-EN3v0SJWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200551095-001-58b9d1215f9b58af5ca84ba0.jpg)
+
 Madrid_wind_speed
 Valencia_wind_deg
 Bilbao_rain_1h
