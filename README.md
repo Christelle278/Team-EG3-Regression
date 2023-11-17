@@ -26,119 +26,88 @@ The primary objective of this project is to create predictive models that help t
 
 We will be using detailed meteorological data, past records of energy load shortfalls during adverse weather conditions, and city-specific weather features to achieve our objectives. Our analysis and modeling will provide valuable insights to make informed decisions and ensure the sustainability of energy supply in Spain.
 
-Project Team
-Team Leader: Christelle Coetzee
-Project Manager: Mashako Justice Manyelo
-Team Members:
-Data Scientist: Destiny Owobu
-Data Scientist: Edidiong Udofia
-Data Scientist: Anthonia Omonayin
-Data Scientist: Pricilla Vhafuniwap
+## Project Team
+- Team Leader: Christelle Coetzee
+- Project Manager: Mashako Justice Manyelo
+- Team Members:
+- Data Scientist: Destiny Owobu
+- Data Analyst: Edidiong Udofia
+- Data Scientist: Anthonia Omonayin
+- Data Scientist: Pricilla Vhafuniwap
 
-Dataset
-Data Source: The dataset contains historical data related to energy generation and weather features for various cities in Spain.
-Data Columns
-time: Timestamp for the data entry.
-
-City-specific weather features:
-
+## Dataset
+# Data Source: The dataset contains historical data related to energy generation and weather features for various cities in Spain:
+- Barcelona
+- Bilbao
+- Madrid
+- Seville
+- Valencie
+  
+# Data Columns
 ![Spain!](https://www.thoughtco.com/thmb/r4-HE4WH88Cu3V7Vs-EN3v0SJWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200551095-001-58b9d1215f9b58af5ca84ba0.jpg)
 
-Madrid_wind_speed
-Valencia_wind_deg
-Bilbao_rain_1h
-Valencia_wind_speed
-Seville_humidity
-Madrid_humidity
-Bilbao_clouds_all
-Bilbao_wind_speed
-Seville_clouds_all
-Bilbao_wind_deg
-Barcelona_wind_speed
-Barcelona_wind_deg
-Madrid_clouds_all
-Seville_wind_speed
-Barcelona_rain_1h
-Seville_pressure
-Seville_rain_1h
-Bilbao_snow_3h
-Barcelona_pressure
-Seville_rain_3h
-Madrid_rain_1h
-Barcelona_rain_3h
-Valencia_snow_3h
-Madrid_weather_id
-Barcelona_weather_id
-Bilbao_pressure
-Seville_weather_id
-Valencia_pressure
-Seville_temp_max
-Madrid_pressure
-Valencia_temp_max
-Valencia_temp
-Bilbao_weather_id
-Seville_temp
-Valencia_humidity
-Valencia_temp_min
-Barcelona_temp_max
-Madrid_temp_max
-Barcelona_temp
-Bilbao_temp_min
-Bilbao_temp
-Barcelona_temp_min
-Bilbao_temp_max
-Seville_temp_min
-Madrid_temp
-Madrid_temp_min
-load_shortfall_3h: The daily energy shortfall, which is the target variable.
+- time: Timestamp for the data entry.
+- wind_speed
+- wind_deg
+- rain_1h
+- humidity
+- clouds_all
+- pressure
+- snow_3h
+- rain_3h
+- weather_id
+- temp_max
+- temp
+- min
+- load_shortfall_3h: The daily energy shortfall, which is the target variable.
 
-Project Objective
+## Project Objective
 The primary objective of this project is to develop a regression model that predicts the daily energy shortfall in Spain based on the provided weather and city-specific data.
 
-Project Deliverables
-Data Preprocessing:
+## Project Deliverables
+# Data Preprocessing:
 
 Clean and preprocess the dataset, handling missing values, and encoding categorical variables as necessary.
 
-Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 
 Conduct EDA to understand the relationships between weather features, energy generation, and the energy shortfall.
 
-Feature Engineering:
+# Feature Engineering:
 
 Create new features if necessary and select relevant features for modeling.
 
-Model Building:
+# Model Building:
 
 Develop and train a regression model to predict the daily energy shortfall using the selected features.
 
-Model Evaluation:
+# Model Evaluation:
 
 Evaluate the model's performance using appropriate metrics such as mean squared error, mean absolute error, and R-squared.
 
-Model Deployment:
+# Model Deployment:
 
 Deploy the trained model for making predictions on new data.
 
-Documentation:
+# Documentation:
 
 Create documentation that explains the data, methodology, and model for future reference.
 
-Project Timeline
+# Project Timeline
 
 The project will be conducted in phases, with each phase having specific tasks and deadlines. The timeline for the project will be determined by the project manager in consultation with the team members.
 
-Data Volume
+# Data Volume
 
 The dataset contains nearly 8762 rows, and its size may impact data processing and model training times. Appropriate hardware and software resources will be allocated to handle this volume effectively.
 
-Collaboration
+# Collaboration
+
 The project team will collaborate closely to ensure the successful completion of each phase. Communication channels will be established to facilitate teamwork and knowledge sharing.
 
-Conclusion
+# Conclusion
 
 The successful modeling of the daily energy shortfall in Spain will provide valuable insights for the government's renewable energy infrastructure investments, contributing to a more sustainable and reliable energy supply for the citizens.
-
 
 ## Contact Information
 
@@ -174,6 +143,10 @@ You can view our presentation slides [here](https://www.canva.com/design/DAFqMlM
 ### GitHub Repository
 
 You can access our GitHub repository [here](https://github.com/Christelle278/Team-EG3-Regression.git).
+
+### Requirements
+
+Please advise the requirements folder in order to see what packages and versions of packages you will need to run this notebook: https://github.com/Christelle278/Team-EG3-Regression/blob/main/Requirements.txt
 
 Feel free to contact us if you have any questions, suggestions, or updates related to this project.
 
