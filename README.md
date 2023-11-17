@@ -36,16 +36,14 @@ We will be using detailed meteorological data, past records of energy load short
 - Data Scientist: Pricilla Vhafuniwap
 
 ## Dataset
-# Data Source: The dataset contains historical data related to energy generation and weather features for various cities in Spain:
+### Data Source: The dataset contains historical data related to energy generation and weather features for various cities in Spain:
 - Barcelona
 - Bilbao
 - Madrid
 - Seville
 - Valencie
-  
-# Data Columns
 ![Spain!](https://www.thoughtco.com/thmb/r4-HE4WH88Cu3V7Vs-EN3v0SJWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200551095-001-58b9d1215f9b58af5ca84ba0.jpg)
-
+### Data Columns
 - time: Timestamp for the data entry.
 - wind_speed
 - wind_deg
@@ -65,47 +63,47 @@ We will be using detailed meteorological data, past records of energy load short
 The primary objective of this project is to develop a regression model that predicts the daily energy shortfall in Spain based on the provided weather and city-specific data.
 
 ## Project Deliverables
-# Data Preprocessing:
+### Data Preprocessing:
 
 Clean and preprocess the dataset, handling missing values, and encoding categorical variables as necessary.
 
-# Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Conduct EDA to understand the relationships between weather features, energy generation, and the energy shortfall.
 
-# Feature Engineering:
+### Feature Engineering:
 
 Create new features if necessary and select relevant features for modeling.
 
-# Model Building:
+### Model Building:
 
 Develop and train a regression model to predict the daily energy shortfall using the selected features.
 
-# Model Evaluation:
+### Model Evaluation:
 
 Evaluate the model's performance using appropriate metrics such as mean squared error, mean absolute error, and R-squared.
 
-# Model Deployment:
+### Model Deployment:
 
 Deploy the trained model for making predictions on new data.
 
-# Documentation:
+### Documentation:
 
 Create documentation that explains the data, methodology, and model for future reference.
 
-# Project Timeline
+### Project Timeline
 
 The project will be conducted in phases, with each phase having specific tasks and deadlines. The timeline for the project will be determined by the project manager in consultation with the team members.
 
-# Data Volume
+### Data Volume
 
 The dataset contains nearly 8762 rows, and its size may impact data processing and model training times. Appropriate hardware and software resources will be allocated to handle this volume effectively.
 
-# Collaboration
+### Collaboration
 
 The project team will collaborate closely to ensure the successful completion of each phase. Communication channels will be established to facilitate teamwork and knowledge sharing.
 
-# Conclusion
+### Conclusion
 
 The successful modeling of the daily energy shortfall in Spain will provide valuable insights for the government's renewable energy infrastructure investments, contributing to a more sustainable and reliable energy supply for the citizens.
 
